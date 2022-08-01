@@ -1,4 +1,4 @@
-[![Arthur Roco](https://drive.google.com/file/d/1t4o3ErGyCG2-aDisGdwQYFT7_kQTQTk8/view)](https://drive.google.com/file/d/1t4o3ErGyCG2-aDisGdwQYFT7_kQTQTk8/view?usp=sharing)
+[![](https://drive.google.com/file/d/1t4o3ErGyCG2-aDisGdwQYFT7_kQTQTk8/view)](https://drive.google.com/file/d/1t4o3ErGyCG2-aDisGdwQYFT7_kQTQTk8/view?usp=sharing)
 
 # Arthur Roco's Code
 ## Crypto or Decrypto
